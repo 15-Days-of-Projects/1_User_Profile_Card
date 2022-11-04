@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/shashikant190/User_Profile_Card-1/blob/main/User_Profile_Card.png">
+src="https://github.com/30-Days-of-Projects/User_Profile_Card/blob/main/User_Profile_Card.png">
 
 - 🔭   This is the first project from my 30 Days of Project Repository
 - 🔭   So this is basic user profile card which can be used by any individual for his/her bussiness/job purposes
