@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" 
 src="https://github.com/30-Days-of-Projects/User_Profile_Card/blob/main/User_Profile_Card.png">
 
-- 🔭   This is the first project from my 30 Days of Project Repository
+- 🔭   This is 1st project from my 30 Days of Project Repository
 - 🔭   So this is basic user profile card which can be used by any individual for his/her bussiness/job purposes
 - 🔭   In this project I have added a Profile pic of individual and also his basic information containing name, company name, etc
 - 🔭   Thank You for Visiting here...
